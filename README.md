@@ -387,9 +387,9 @@ Water Stops
 ### ▶️ Working Video
 
 <p align="center">
-  <video src="./assets/workable-demo.mp4" controls width="750">
+  <video src="./assets/add-2.mp4.mp4" controls width="750">
     Your browser does not support embedded videos.
-    <a href="./assets/workable-demo.mp4">Watch the workable prototype demonstration</a>
+    <a href="./assets/add-2.mp4">Watch the workable prototype demonstration</a>
   </video>
 </p>
 
@@ -401,42 +401,6 @@ Water Stops
 
 ---
 
-# 📁 Project Structure
-
-```text
-energy-efficient-automatic-faucet/
-│
-├── README.md
-│
-├── assets/
-│   ├── prototype.jpg
-│   └── workable-demo.mp4
-│
-├── src/
-│   └── ...
-│
-├── circuit/
-│   └── ...
-│
-└── docs/
-    └── ...
-```
-
----
-
-# ⚠️ Limitations
-
-* TCRT5000 detection performance can vary with distance and surface characteristics.
-* Ambient lighting and installation conditions may affect infrared sensing.
-* Sensor placement has a significant effect on detection reliability.
-* Water-saving performance depends on user behaviour and faucet flow rate.
-* Latching solenoid valves require an appropriate control pulse.
-* The valve driver must be designed according to the valve's electrical requirements.
-* Water and electronics require appropriate physical isolation.
-* Long-term durability requires extended real-world testing.
-* Actual water savings cannot be determined without field measurements.
-
----
 
 # 🚀 Future Improvements
 
