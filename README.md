@@ -334,7 +334,7 @@ The following parameters should be measured using the actual prototype.
 The following image shows the physical prototype of the automatic faucet system.
 
 <p align="center">
-  <img src="./assets/prototype.jpg" alt="Energy-Efficient Automatic Faucet Prototype" width="750">
+  <img src="./assets/image.png" alt="Energy-Efficient Automatic Faucet Prototype" width="750">
 </p>
 
 ### Prototype Includes
@@ -387,7 +387,7 @@ Water Stops
 ### ▶️ Working Video
 
 <p align="center">
-  <video src="./assets/add-2.mp4.mp4" controls width="750">
+  <video src="./assets/add-2.mp4" controls width="750">
     Your browser does not support embedded videos.
     <a href="./assets/add-2.mp4">Watch the workable prototype demonstration</a>
   </video>
@@ -395,9 +395,7 @@ Water Stops
 
 **Demo file:**
 
-`assets/workable-demo.mp4`
-
-> GitHub's Markdown video rendering may vary depending on where the README is viewed. The MP4 file can also be opened directly from the repository.
+`https://youtu.be/UKfMvYvFGGo?si=ElwOWZ2UeddB6o7C`
 
 ---
 
